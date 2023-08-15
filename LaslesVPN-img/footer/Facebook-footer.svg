@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" width="34" height="34">
+	<title>Facebook-footer-svg</title>
+	<style>
+		.s0 { fill: #f53838 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m16.8 34.2c-9.3 0-16.8-7.5-16.8-16.8 0-9.3 7.5-16.8 16.8-16.8 9.3 0 16.8 7.5 16.8 16.8 0 9.3-7.5 16.8-16.8 16.8z"/>
+	</g>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m33.6 17.4c0 9.3-7.5 16.8-16.8 16.8-9.3 0-16.8-7.5-16.8-16.8 0-9.3 7.5-16.8 16.8-16.8 9.3 0 16.8 7.5 16.8 16.8zm-12.8-8h-2.5c-2.1 0-3.7 1.8-3.7 4v1.5h-2.7v2.6h2.7v7.8h3v-7.8h2.7l0.5-2.6h-3.2v-1.8c0-0.5 0.4-0.9 0.7-0.9h2.5c0 0 0-2.8 0-2.8z"/>
+</svg>
