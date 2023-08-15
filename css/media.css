@@ -25,6 +25,10 @@
 /* --header----------------------------------------------- */
 
 @media(max-width: 991.98px) {
+    .wow {
+        animation-name: none !important;
+        visibility: visible !important;
+    }
     .header__burger {
         display: flex;
     }
