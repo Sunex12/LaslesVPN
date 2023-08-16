@@ -55,3 +55,9 @@ sliderPrevButton.addEventListener('click', function() {
     sliderNextButton.style.opacity = '0.75'
     sliderPrevButton.style.opacity = '1'
 });
+
+
+wow = new WOW({
+  mobile: false,
+ })
+  wow.init();
